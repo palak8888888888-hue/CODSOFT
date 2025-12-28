@@ -1,0 +1,29 @@
+# 📩 Spam SMS Detection
+
+## 📌 Project Description
+This project focuses on building a machine learning model to classify SMS messages as **Spam** or **Legitimate (Ham)** using Natural Language Processing (NLP) techniques.
+
+## 🛠 Technologies Used
+- Python
+- Pandas, NumPy
+- Scikit-learn
+- TF-IDF Vectorizer
+- Machine Learning Algorithms
+
+## 🔍 Algorithms Implemented
+- Naive Bayes
+- Logistic Regression
+- Support Vector Machine (SVM)
+
+## 📊 Workflow
+1. Data loading and preprocessing
+2. Text cleaning and normalization
+3. Feature extraction using TF-IDF
+4. Model training and evaluation
+5. Performance comparison
+
+## 🎯 Objective
+To automatically detect spam SMS messages and improve communication security using AI.
+
+## 📁 Dataset
+Publicly available SMS spam dataset
